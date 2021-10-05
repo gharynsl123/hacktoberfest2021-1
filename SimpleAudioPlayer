@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>audio player</title>
+</head>
+<body>
+	<audio autoplay="true" muted="false">
+		<source src="yourmusic" type="audio/ogg">
+        <source src="yourmusic" type="audio/mpeg">
+	</audio>
+</body>
+</html>
